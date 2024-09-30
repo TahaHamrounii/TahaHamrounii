@@ -9,8 +9,9 @@ When I was a kid, while everyone else dreamed of being doctors or astronauts, I 
 - 🎮 Enjoying video games  
 
 ## 🎯 Skills
-- 💻 **Programming Languages**: C, C#, Java, Python  
-- 🌐 **Front-end Development**: Vue.js, AngularJS, with a solid foundation in HTML5, CSS3, and JavaScript  
+- 💻 **Programming Languages**: C, C#, Java, PHP, and a basic Python  
+- 🌐 **Front-end Development**: Vue.js, AngularJS, with a solid foundation in HTML5, CSS3, and JavaScript
+- ⚙️ **Back-end Development**: .NET core, Symfonhy, Express Js
 - 🛢️ **Databases**: MySQL, SQL Server, SQLite, MongoDB  
 - 🐙 **Version Control**: Git  
 
