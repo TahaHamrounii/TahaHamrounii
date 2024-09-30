@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: ...
+  <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Hamrouni-blue)](www.linkedin.com/in/tahahamrouni)
 [![Gmail](https://img.shields.io/badge/Gmail-tahah680@gmail.com-red)](mailto:tahah680@gmail.com)
