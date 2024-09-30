@@ -1,25 +1,24 @@
-## Hi there, It's Taha! your favourite IT technician, Web developper, and a lot more!
+# Hi there, I'm Taha! 👋  
+### Your favorite IT technician, web developer, and much more!
 
-When I was a kid, everyone wanted to be a doctor or an astronaut, and I wanted to be a software engineer:
-I thought it was going to be as fun as playing video games, but it was actually funnier.
+When I was a kid, while everyone else dreamed of being doctors or astronauts, I always wanted to be a software engineer. I thought it would be as fun as playing video games—and it turned out to be even more fun!
 
-## 🕹️Hobbies
-  •♟️ Playing chess. <br>
-  •🧩 Solving problems on Leetcode. <br>
-  •🎮 Playing video games. <br>
+## 🕹️ Hobbies
+- ♟️ Playing chess  
+- 🧩 Solving problems on LeetCode  
+- 🎮 Enjoying video games  
 
 ## 🎯 Skills
-  •	💻 C C# Java & a little bit of Python <br>
-  •	🌐 VueJs/AngularJs with a good foundation of HTML5 CSS3 and Javascript. <br>
-  •	🛢️ MySQL / SQL Server / SQLITE and MongoDB <br>
-  •	🐙 Git <br>
+- 💻 **Programming Languages**: C, C#, Java, Python  
+- 🌐 **Front-end Development**: Vue.js, AngularJS, with a solid foundation in HTML5, CSS3, and JavaScript  
+- 🛢️ **Databases**: MySQL, SQL Server, SQLite, MongoDB  
+- 🐙 **Version Control**: Git  
 
-## 🆕 Currently going
-  •	🌱 learning mobile development using React Native <br>
-  •	🔭 I’m currently working on a instant chat web site <br>
+## 🆕 Currently Exploring
+- 🌱 Learning mobile development with **React Native**  
+- 🔭 Working on an **instant chat website**  
 
-
-
-
-## 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Hamrouni-blue)](www.linkedin.com/in/tahahamrouni) [![Gmail](https://img.shields.io/badge/Gmail-tahah680@gmail.com-red)](mailto:tahah680@gmail.com) [![Discord](https://img.shields.io/badge/Discord-drunkshadows-purple)](https://discord.com)
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Hamrouni-blue)](https://www.linkedin.com/in/tahahamrouni) 
+[![Gmail](https://img.shields.io/badge/Gmail-tahah680@gmail.com-red)](mailto:tahah680@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-drunkshadows-purple)](https://discord.com)
