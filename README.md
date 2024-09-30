@@ -2,20 +2,27 @@
 When I was a kid, everyone wanted to be a doctor or an astronaut, and I wanted to be a software engineer:
 I thought it was going to be as fun as playing video games, but it was actually funnier.
 
-<!--
-**TahaHamrounii/TahaHamrounii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕹️Hobbies
+♟️ Playing chess.
+🧩 Solving problems on Leetcode.
+🎮 Playing video games.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a projet
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 📫 How to reach me: ...
+## 💻 Skills
+can code with C C# Java & a little bit of Python 
+
+
+
+- 🌱 I’m currently learning mobile development using React Native
+- 🔭 I’m currently working on a instant chat web site
+
+
+
+
+
+
+
+- 📫 How to reach me:
   <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Hamrouni-blue)](www.linkedin.com/in/tahahamrouni)
 [![Gmail](https://img.shields.io/badge/Gmail-tahah680@gmail.com-red)](mailto:tahah680@gmail.com)
